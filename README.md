@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi — I'm Seanix, a 2nd-year Computer Engineering student who loves building small projects and learning new tech.
+Hi! I'm Seanix, a 2nd-year Computer Engineering student who loves building small projects and learning new tech.
 
 - Skills: C · C# · Python · SQL
 - Club: Member of GDGoC

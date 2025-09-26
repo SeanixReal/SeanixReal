@@ -2,10 +2,6 @@
 
 Hi! I'm Seanix, a 2nd-year Computer Engineering student who loves building small projects and learning new tech.
 
-- Skills: C · C# · Python · SQL
-- Club: Member of GDGoC
-- Interests: Machine Learning, Cybersecurity, and Artificial Intelligence
-
 Outside of coding I play chess, run, and play video games. I'm friendly, curious, and always up for collabs, internships, or mentorship.
 Feel free to connect!
 

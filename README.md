@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img src="https://media.giphy.com/media/6uGhT1O4sxpi8/giphy.gif" width="100%" height="300px" style="object-fit:cover;" />
 
-Hi! I'm Seanix, a 2nd-year Computer Engineering student who loves building small projects and learning new tech.
+Hi! I'm Seanix, a 2nd-year Computer Engineering student.
 
 Outside of coding I play chess, run, and play video games. I'm friendly, curious, and always up for collabs, internships, or mentorship.
 Feel free to connect!

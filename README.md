@@ -29,8 +29,5 @@ Feel free to connect!
 ![Dog](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJqbnhtZDNjMWhlYmI2bnRqbnV4cnFjcTBvdTUwa2NsbDNqaXd6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif)
 
 ![Visitors](https://komarev.com/ghpvc/?username=seanixreal)
-
-![Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ0MzhoYWtpMWFxaHh0b2cybzQ5bDRxeTJubjl1aGJjbHZ4ZWg0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIqvp15nwilyw/giphy.gif)
-
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -23,6 +23,6 @@ Feel free to connect!
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJqbnhtZDNjMWhlYmI2bnRqbnV4cnFjcTBvdTUwa2NsbDNqaXd6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="100%" height="300px" style="object-fit:cover;" />
 
-![Visitors](https://komarev.com/ghpvc/?username=seanixreal)
+![Visitors](https://komarev.com/ghpvc/?username=seanixreal&color=orange&style=for-the-badge)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
